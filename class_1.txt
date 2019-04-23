@@ -1,0 +1,8 @@
+Class: Faculty
+	- Name (string)
+	- Function (string)
+	- Age (integer)
+
+	- Identify_member
+	- Describe_duty
+	- Provide_age
