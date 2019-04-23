@@ -1,14 +1,14 @@
 Professor
- - Mr. Smith
+ - 'Mr. Smith'
  - Teach_History
  - 42
 
 Maintenance Manager
- - Bob Graham
+ - 'Bob Graham'
  - Manage_cleaning_staff
  - 57
 
  School Counselor
-  - Dr. Chamberlain
+  - 'Dr. Chamberlain'
   - Guide_students
   - 38
